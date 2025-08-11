@@ -4,6 +4,6 @@ A collection of utilities to destructure lambda forms.
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/Shinmera/form-fiddle.git |
-| commit  | fc4e7e6                                         |
+| commit  | 82e78a7                                         |
 | systems | form-fiddle                                     |
 |---------+-------------------------------------------------|
